@@ -1,0 +1,15 @@
+#summary One-sentence summary of this page.
+
+While looking at OpenNMS window, i thought to have an application that can show alerts like netcool or netcool like tool does.
+
+so, i wrote onms-alarmview, 
+It uses onms rest api to fetch data and show it on an applet screen
+
+#Add your content here.
+
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
